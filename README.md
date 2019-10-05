@@ -35,3 +35,9 @@ https://hackmd.io/4tfgHebPRxSoxFu95MaPvw
 # 📦  :package:        依存パッケージのアップデート
 # 👮  :cop:         セキュリティ改善
 ```
+
+.path = このrepoにある`.commit-template`のpath
+```
+git config --global commit.template {{.path}}
+```
+`--global`は任意
