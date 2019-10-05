@@ -19,3 +19,20 @@ https://hackmd.io/4tfgHebPRxSoxFu95MaPvw
 * [name=glatan]
 * [name=terfno]
 * [name=agata]
+
+
+
+
+# 🔥  :fire:        新しいファイル作成
+# ⚡️  :zap:         ちょっとした更新
+# 🐛  :bug:         バグ修正
+# 👍  :+1:          機能改善
+# 🎉  :tada:        機能追加
+# ♻  :recycle:     リファクタリング
+# 🚿  :shower:      機能削除
+# 💚  :green_heart: テストとかの改善
+# 👕  :shirt:       コードスタイル修正
+# 🚀  :rocket:      パフォーマンス改善
+# 📦  :package:        依存パッケージのアップデート
+# 👮  :cop:         セキュリティ改善
+
